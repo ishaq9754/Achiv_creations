@@ -71,7 +71,7 @@
     --text-color: #414260;
     --text-color-2: #898A9E;
     --background-color: #FFFAF4;
-    --accent-color: #9B72B5;
+    --accent-color: #9263AB;
     --accent-color-2: #FFD6D6;
     --accent-color-3: #150C1C;
     --accent-color-4: #FFDA72;
@@ -583,7 +583,7 @@ a {
 
 .linear-gradient {
     padding: 20px;
-    background: linear-gradient(270deg, #FFD6D6 0%, #9B72B5 100%);
+    background: linear-gradient(270deg, #FFD6D6 0%, #9263AB 100%);
     border-radius: 50px;
     width: max-content
 }
