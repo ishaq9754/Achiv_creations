@@ -1478,6 +1478,11 @@ a {
         font-size: 13px;
         width: 100%;
     }
+    .btnmain {
+        font-size: 13px;
+        width: 50%;
+        text-align: center;
+    }
 
     .section {
         padding: 4em 2em 4em 2em;
